@@ -98,7 +98,7 @@ h3, .h3 {
 }
 
 .section-margin {
-  margin: 65px 0;
+  margin: 60px 0;
 }
 
 @media (min-width: 992px) {
@@ -113,7 +113,7 @@ h3, .h3 {
 
 @media (min-width: 992px) {
   .section-margin-large {
-    margin: 140px 0;
+    margin: 79px 0;
   }
 }
 
@@ -128,18 +128,18 @@ h3, .h3 {
 }
 
 .generic-margin {
-  margin-top: 100px;
+  margin-top: 10px;
 }
 
 @media (min-width: 992px) {
   .generic-margin {
-    margin-top: 180px;
+    margin-top: 70px;
   }
 }
 
 @media (min-width: 1200px) {
   .generic-margin {
-    margin-top: 250px;
+    margin-top: 70px;
   }
 }
 
@@ -472,6 +472,7 @@ h3, .h3 {
     margin-top: 27px;
     margin-bottom: 23px;
   }
+
   .header_area .navbar {
     background: #d1cff4;
   }
@@ -795,12 +796,13 @@ h3, .h3 {
 /* banner section start
 	============================================================================================ */
 .hero-banner {
-  padding-top: 120px;
+  padding-top: 100px;
+
 }
 
 @media (min-width: 992px) {
   .hero-banner {
-    padding-top: 160px;
+    padding-top: 100px;
   }
 }
 
