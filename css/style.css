@@ -1617,7 +1617,7 @@ h3, .h3 {
 }
 
 .single-recent-blog-post .thumb {
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .single-recent-blog-post .thumb img {
