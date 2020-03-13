@@ -799,7 +799,10 @@ h3, .h3 {
   padding-top: 100px;
 
 }
+.hero-banner .container img {
+  max-height: 600px;
 
+}
 @media (min-width: 992px) {
   .hero-banner {
     padding-top: 100px;
@@ -808,7 +811,7 @@ h3, .h3 {
 
 .hero-banner h1 {
   text-transform: uppercase;
-  color: #6059f6;
+  color: #8b88f6;
   margin-bottom: 15px;
 }
 
